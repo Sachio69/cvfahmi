@@ -39,7 +39,7 @@
   ------------------------------------------------------------------------------------- */
   const type_text = function () {
     var typed = new Typed(".auto-type", {
-      strings: ["UX/UI Designer", "Developer", "Freelancer"],
+      strings: ["Creative Visual Designer","3D Modeler","Video Editor","UX/UI Designer", "Developer", "Freelancer"],
       typeSpeed: 70,
       backSpeed: 70,
       backDelay: 900,
